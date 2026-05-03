@@ -2,6 +2,11 @@
 
 A Machine Learning project that predicts the Customer Lifetime Value of eCommerce customers using RFM (Recency, Frequency, Monetary) features and Regression models.
 
+## 🌐 Live Demo
+👉 **[Click here to try the Live CLTV Predictor](https://kishansingh7x.github.io/Customer-Lifetime-Value-Prediction)**
+
+> Enter any customer's Recency, Frequency and Monetary values and instantly get their predicted Customer Lifetime Value!
+
 ---
 
 ## 📌 Project Overview

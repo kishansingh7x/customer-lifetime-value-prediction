@@ -66,16 +66,22 @@ This project answers that by predicting how much revenue a customer will generat
 ---
 
 ## 📁 Project Structure
+
+```
 customer-lifetime-value-prediction/
 ├── CLTV_Prediction.ipynb     # Main Jupyter Notebook
 ├── demo.html                 # Live interactive demo
-├── eda_plots.png             # EDA visualizations
-├── correlation_heatmap.png   # Feature correlation
-├── model_comparison.png      # Model comparison chart
-├── actual_vs_predicted.png   # Best model results
-├── feature_importance.png    # Feature importance chart
+├── index.html                # GitHub Pages homepage
+├── model_data.js             # Model scores data
+├── results/                  # All output visualizations
+│   ├── eda_plots.png         # EDA visualizations
+│   ├── correlation_heatmap.png
+│   ├── model_comparison.png
+│   ├── actual_vs_predicted.png
+│   └── feature_importance.png
+├── .gitignore                # Excludes dataset file
 └── README.md                 # Project documentation
-
+```
 ---
 
 ## 🚀 How to Run
